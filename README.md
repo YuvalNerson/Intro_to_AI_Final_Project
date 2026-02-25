@@ -1,6 +1,6 @@
 # Intro to Artificial Intelligence - Final Project 🤖
 
-**Lecturer:** Mr. Akiva Bruno Malka  
+**Lecturer:** Dr. Akiva Bruno Malka  
 **Teaching Assistant:** Mr. Regev Yehezkel Imra  
 **Students:** Yuval Nerson & Natan Lerner
 
