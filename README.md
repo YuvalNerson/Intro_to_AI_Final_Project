@@ -10,7 +10,7 @@
 ## 📁 Repository Structure
 * [cite_start]**Part I: Regression Task** (`Part_I_Regression_Task.ipynb`) – Predicts fuel efficiency (MPG) using Linear, Polynomial, and KNN regression models, including a detailed Exploratory Data Analysis (EDA)[cite: 9, 10, 11].
 * [cite_start]**Part II: Classical Classification Task** (To be added) – Multi-class classification on the CIFAR-10 dataset using Logistic Regression, SVM, and KNN models[cite: 12, 13, 14].
-* [cite_start]**Part III: Neural Network Classification** (`Part_III_Neural_Network_Classification_(PyTorch).ipynb`) – A PyTorch-based implementation of a neural network classifier, including hyperparameter optimization and architectural design[cite: 15, 16, 17].
+* [cite_start]**Part III: Neural Network Classification (PyTorch)** (`Part_III_Neural_Network_Classification_(PyTorch).ipynb`) – A PyTorch-based implementation of a neural network classifier, including hyperparameter optimization and architectural design[cite: 15, 16, 17].
 * [cite_start]**Part IV: Bonus Task (Optional)** (`Part_IIII_Bonus_Task_Neural_Network_Regression_with_Py_Torch.ipynb`) – Neural Network Regression with PyTorch, adapting the classification model to solve the regression problem from Part I[cite: 161, 163, 167].
 
 ## Reproducibility
