@@ -8,7 +8,7 @@
 This repository contains the implementation of the final project for the Introduction to Artificial Intelligence course. The project focuses on supervised learning through distinct tasks, demonstrating modeling choices, evaluation methodology, and practical implementation.
 
 ## 📁 Repository Structure
-* **Part I: Regression Task** (`Part_I_Regression_Task.ipynb`) – Predicts fuel efficiency (MPG) using Linear, Polynomial, and KNN regression models, including a detailed Exploratory Data Analysis (EDA).
+* *[Part I: Regression Task - Auto MPG] (./Part_I_Regression_Task.ipynb) – Predicts fuel efficiency (MPG) using Linear, Polynomial, and KNN regression models, including a detailed Exploratory Data Analysis (EDA).
 * **Part II: Classical Classification Task** (To be added) – Multi-class classification on the CIFAR-10 dataset using Logistic Regression, SVM, and KNN models.
 * **Part III: Neural Network Classification (PyTorch)** (`Part_III_Neural_Network_Classification_(PyTorch).ipynb`) – A PyTorch-based implementation of a neural network classifier, including hyperparameter optimization and architectural design.
 * **Part IV: Bonus Task** (`Part_IIII_Bonus_Task_Neural_Network_Regression_with_Py_Torch.ipynb`) – Neural Network Regression with PyTorch, adapting the classification model to solve the regression problem from Part I.
