@@ -1,4 +1,4 @@
-# Introduction to Artificial Intelligence — Final Project
+# Introduction to Artificial Intelligence: Final Project
 
 A team project by Yuval Nerson and Natan Lerner for the Introduction to Artificial Intelligence course at Bar-Ilan University. The notebooks compare supervised-learning approaches across regression and image-classification tasks.
 
